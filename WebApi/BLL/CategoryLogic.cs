@@ -13,6 +13,7 @@ namespace BLL
         public static List<DTO.Category> GetAllCategories()
         {
             List<DTO.Category> categoriesDto = new List<DTO.Category>();
+
             List<DAL.Category> categories = db.Category.ToList();
             foreach (var item in categories)
             {

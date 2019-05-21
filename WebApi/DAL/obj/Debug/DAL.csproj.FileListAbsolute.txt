@@ -15,3 +15,8 @@ C:\Users\מחשב\Desktop\פרויקט\WebApi\DAL\obj\Debug\DAL.csprojResolveAss
 C:\Users\מחשב\Desktop\פרויקט\WebApi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\מחשב\Desktop\פרויקט\WebApi\DAL\obj\Debug\DAL.dll
 C:\Users\מחשב\Desktop\פרויקט\WebApi\DAL\obj\Debug\DAL.pdb
+C:\Users\אתי\Documents\GitHub\setTable\WebApi\DAL\bin\Debug\DAL.dll.config
+C:\Users\אתי\Documents\GitHub\setTable\WebApi\DAL\bin\Debug\EntityFramework.dll
+C:\Users\אתי\Documents\GitHub\setTable\WebApi\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\אתי\Documents\GitHub\setTable\WebApi\DAL\bin\Debug\EntityFramework.xml
+C:\Users\אתי\Documents\GitHub\setTable\WebApi\DAL\bin\Debug\EntityFramework.SqlServer.xml
